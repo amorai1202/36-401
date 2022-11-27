@@ -1,6 +1,4 @@
-# 36-401
-
-Repository for 36-401: Modern Regression
+# 36-401: Modern Regression
 
 Data Analysis 1 is a formal scientific report answering the following questions: 
 
